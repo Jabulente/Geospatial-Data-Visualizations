@@ -1,2 +1,2 @@
-# Geospatial-Data-Visualizations-Tanzania-s-Administrative-Geographic-and-Socioeconomic-Landscape
+<h1 align = 'center'>Geospatial Data Visualizations | Tanzania's Administrative, Geographic and Socioeconomic Landscape</h1>
 This repository showcases geospatial data visualizations focused on Tanzania's administrative boundaries, geographic features, and selected socioeconomic indicators. Using GeoPandas, Matplotlib, and other geospatial libraries, the project provides static and customizable maps of regions, districts, and population distributions.
